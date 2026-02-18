@@ -1,11 +1,11 @@
 # test
-test file
 
-**This is a test file!**
+
+*This is a test file!*
 
  Here I will upload:
- 
  1. A picture
+ 2. Also some code
 
  Here is my picture:
  
